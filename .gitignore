@@ -1,6 +1,10 @@
 # Ignore list for Eagle, a PCB layout tool
 
 # Backup files
+# .gitignore
+node_modules
+test.md
+
 *.s#?
 *.b#?
 *.l#?
