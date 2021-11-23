@@ -28,4 +28,4 @@ Contributions, issues, and feature requests are welcome!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Coding Partner Nicolas
